@@ -131,15 +131,6 @@ Interests  : Backend, Web Development, Open Source
 
 ---
 
-## 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=ghazicode&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
----
 
 ## 📈 CONTRIBUTION GRAPH
 
